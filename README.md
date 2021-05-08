@@ -1,2 +1,3 @@
-# S.O.L.D---Sales-Automation-Software
-It is a basic sales automation program, you can add customer and product data and make a sale.
+# S.O.L.D - Sales-Automation-Software
+This program was made as a project for the INF212 course.  
+And it was uploaded to GitHub after the deadline ended.
